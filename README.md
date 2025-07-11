@@ -10,14 +10,13 @@
 - ✅ Clean, responsive UI built with HTML, CSS, and JavaScript
 - ✅ Secure user registration and login using PHP & MySQL
 - ✅ Admin and user roles for content control
-- ✅ Real-time course filtering and data display
 - ✅ Integrated social media links
 
 ---
 
 ## 🧑‍💻 Technologies Used
 
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
 - **Server:** XAMPP / InfinityFree
